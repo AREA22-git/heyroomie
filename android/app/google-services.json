@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "383308143268",
+    "project_id": "heyroomie-d0f58",
+    "storage_bucket": "heyroomie-d0f58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383308143268:android:0954d02b4bdab20bfd2431",
+        "android_client_info": {
+          "package_name": "com.rego.roomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383308143268-2rapg6uo6u9ue3sv2jfa6pdecf0b4n8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEm2ygYieK_Rrc1WYlb98-zHSkVuwiCik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383308143268-2rapg6uo6u9ue3sv2jfa6pdecf0b4n8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383308143268-2ihehe71r574hfa08ikg1qmkkmc0k768.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rego.heyroomie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

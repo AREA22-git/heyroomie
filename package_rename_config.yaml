@@ -1,0 +1,10 @@
+package_rename_config:
+  android:
+    app_name: HeyRoomie
+    package_name: com.rego.heyroomi
+      
+
+  ios:
+    app_name: HeyRoomie
+    bundle_name: com.rego.heyroomi
+    package_name: com.rego.heyroomi
